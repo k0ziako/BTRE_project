@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv/bin/python3",
+    "editor.tabCompletion": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "html.suggest.html5": true,
+}

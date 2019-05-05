@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="listings.models.Listing.objects" />
+          <option value="realtors.models.Realtor.objects" />
         </list>
       </option>
     </inspection_tool>
